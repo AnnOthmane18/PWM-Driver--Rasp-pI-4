@@ -5,6 +5,5 @@ in this project i tried to create pwm driver for the raspberry pi using main fun
     * **set_pwm_period(S_PWM *ps_pwm, long long int period)**: A dedicated function to set up the Period function
     * **set_pwm_duty_cycle(S_PWM *ps_pwm, long long int duty_cycle)**: A dedicated function to set up the Ducty Cycle function
 
-<picture>
+# Raspberry pi 4
 ![alt text](https://www.electronicwings.com/storage/PlatformSection/TopicContent/304/description/Raspberry%20pi%203%20PWM%20pins.png)
-</picture>
